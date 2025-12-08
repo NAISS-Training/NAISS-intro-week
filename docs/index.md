@@ -6,7 +6,7 @@ The training is open for all current and prospective users of NAISS, from Swedis
 
 The training is divided into modules, which will each cover 3 or 6 hours: 
 
-## DAY 1 
+## [DAY 1](day1.md)
 
 - Linux Command Line 101 (3 hours)
 - Connecting and File transfers (3 hours)
