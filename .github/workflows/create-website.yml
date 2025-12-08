@@ -1,4 +1,5 @@
-# Creates and deploys the rendered website version of this repository
+# This is a basic workflow for the Actions
+
 name: Create website
 
 # Controls when the workflow will run
@@ -18,8 +19,8 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "create_website"
-  create_website:
+  # This workflow contains a single job called "deploy"
+  deploy:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
@@ -30,5 +31,5 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: 3.x
-      - run: pip install mkdocstrings mkdocs-embed-external-markdown feedparser mkdocs-gen-files markdown-exec[ansi] markdown-include mkdocs-open-in-new-tab markdown-extra 
+      - run: pip install mkdocstrings mkdocs-embed-external-markdown feedparser mkdocs-gen-files markdown-exec[ansi] markdown-include mkdocs-open-in-new-tab markdown-extra   
       - run:  mkdocs gh-deploy --force
