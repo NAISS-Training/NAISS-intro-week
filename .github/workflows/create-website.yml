@@ -18,6 +18,8 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
+- name: Configure GitHub Pages
+  uses: actions/configure-pages@v5
   # This workflow contains a single job called "create_website"
   create_website:
     # The type of runner that the job will run on
