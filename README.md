@@ -30,5 +30,5 @@ The training is divided into modules, which will each cover 3 or 6 hours:
 
 ## Registration 
 
-You can find the registration here: 
+You can find the registration here: https://forms.office.com/e/drJJvvis8s  
 

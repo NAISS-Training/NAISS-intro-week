@@ -1,0 +1,51 @@
+# Day 3 
+
+**Date**:
+**Time**: 9:00 - 12:00 and 13:00 - 16:00
+
+## Linux Command Line 201 
+
+**Time**: 9:00 - 12:00 and 13:00 - 16:00
+
+In this 6-hour, 2-day ONLINE workshop you will learn how to work smarter from a command line. You can follow either day or both.
+
+Doing so, you will learn more Bash commands, scripting and some quality of life topics.
+
+NOTE: You can run on your own (Linux) computer or on your favorite HPC cluster (that you already have access to).
+
+At the end of each day, you should feel able to work smarter and able to avoid more grunt work (i.e. anything that involves repeated copypaste). 
+
+### Prerequisites 
+
+- Basic Linux, at the level of the "Linux Command Line 101" module. 
+
+I.e. we assume you know that:
+
+- Tab autocompletes commands
+- ``man`` shows a manual
+- ``cat`` shows text
+- ``less`` and ``more`` show scrollable text
+- ``nano`` is a text editor
+- ``find`` is used for file and directory search.
+- ``sort`` is used to print the output of a file in given order
+- ``head`` is used to print the first lines of a file
+- ``tail`` prints the lines at the end of a file
+- ``echo`` displays lines of text or strings that are passed as arguments
+
+### Topics 
+
+- pipe
+- ``wc`` and ``cut``
+- Regular expressions and ``grep``
+- Regualr expressions and ``sed``
+- Minor mention of ``awk``
+- Bash scripting
+- Environment variables
+- Advanced redirect
+- Links (hard/soft)
+- Archiving/compressing data
+
+!!! note 
+
+    Link to the course material: <a href="https://uppmax.github.io/linux-command-line-201/" target="_blank">Linux Command Line 201</a>. 
+

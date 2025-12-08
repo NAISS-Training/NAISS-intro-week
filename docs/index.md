@@ -11,24 +11,24 @@ The training is divided into modules, which will each cover 3 or 6 hours:
 - Linux Command Line 101 (3 hours)
 - Connecting and File transfers (3 hours)
 
-## DAY 2 
+## [DAY 2](day2.md)
 
 - Selecting software modules (2-3 hours)
 - Running jobs on clusters (3 hours)
 
-## DAY 3 
+## [DAY 3](day3.md)
 
 - Linux Command Line 201 (6 hours)
 
-## DAY 4 
+## [DAY 4](day4.md)
 
 - AI/ML on NAISS systems (3 hours) 
 
-## DAY 5 
+## [DAY 5](day5.md) 
 
 - Handling sensitive data at NAISS (6 hours)
 
 ## Registration 
 
-You can find the registration here: 
+You can find the registration here: <a href="https://forms.office.com/e/drJJvvis8s" target="_blank">https://forms.office.com/e/drJJvvis8s</a>. 
 
