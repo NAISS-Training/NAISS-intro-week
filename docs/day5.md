@@ -13,5 +13,10 @@ We will tell you about NAISS-SENS, how to login to the NAISS sensitive data syst
 
 ### Prerequisites 
 
+- Basic Linux (as in the "Linux Command Line 101" module of this training week). 
+
+### Topics 
+
+
 
 
