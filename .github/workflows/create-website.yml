@@ -30,6 +30,6 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
-          python-version: 3.x
+          python-version: 3.13
       - run: pip install mkdocstrings mkdocs-embed-external-markdown feedparser mkdocs-gen-files markdown-exec[ansi] markdown-include mkdocs-open-in-new-tab markdown-extra   
       - run:  mkdocs gh-deploy --force
