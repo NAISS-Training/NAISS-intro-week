@@ -22,7 +22,7 @@ The training is divided into modules, which will each cover 3 or 6 hours:
 
 ## [DAY 4](day4.md)
 
-- AI/ML on NAISS systems (3 hours) 
+- Running AI/ML workloads on NAISS systems (3 hours) 
 
 ## [DAY 5](day5.md) 
 

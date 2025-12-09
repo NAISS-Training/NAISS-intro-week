@@ -3,7 +3,7 @@
 **Date**: 
 **Time**: 
 
-## AI/ML on NAISS systems 
+## Running AI/ML workloads on NAISS systems 
 
 **Time**: 
 
