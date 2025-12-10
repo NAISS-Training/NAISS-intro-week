@@ -37,7 +37,7 @@ I.e. we assume you know that:
 - pipe
 - ``wc`` and ``cut``
 - Regular expressions and ``grep``
-- Regualr expressions and ``sed``
+- Regular expressions and ``sed``
 - Minor mention of ``awk``
 - Bash scripting
 - Environment variables
