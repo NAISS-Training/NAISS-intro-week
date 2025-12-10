@@ -30,7 +30,7 @@ The training is divided into modules, which will each cover 3 or 6 hours:
 
 ## Comments and questions
 
-Comments and questions on these training events should be sent to NAISS using the [support form in SUPR](https://supr.naiss.se/support/).  Please select **"Question about a training event"** as "Problem or Questions Type".
+Comments and questions on these training events should be sent to NAISS using the [support form in SUPR](https://supr.naiss.se/support/?problem_type=training_event).  Please select **"Question about a training event"** as "Problem or Questions Type".
  
 ## Registration 
 
