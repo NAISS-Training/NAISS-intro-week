@@ -24,7 +24,7 @@ Bianca is the only resource so far and will be used during this instance of the 
 - how you transfer your data in/out from the sensitive systems
 - how you get access to the software you need at this system
 - how you use the job scheduler to run on the compute nodes
-- (If time allows, how to use IDEs, like RStudio, Jupyter, MATLAB or VSCodium)
+- (If time allows, how to start IDEs, like e.g. RStudio and Jupyter)
 
 !!! note 
 
