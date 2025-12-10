@@ -34,6 +34,10 @@ The course will show you how to find and load modules. While the modules may be 
 
 **Time**: 13:00 - 16:00 
 
+This module explains key features of a contemporary HPC cluster, such as deployed within NAISS and a number of Swedish universities.  It will explain the principles behind the job scheduler and how the scheduler can be used to accomplish your computational work in an efficient manner.  The examples will utilise the SLURM scheduler, which is deployed on the NAISS resources and many university resources.
+
+The module is organised as an online event.  The event addresses users who have recently started using HPC systems and prospective users considering using an HPC system in the near future. 
+
 ### Prerequisites 
 
 - An account at an HPC centre
