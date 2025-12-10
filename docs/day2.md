@@ -1,17 +1,21 @@
 # Day 2 
 
+On day 2 there are two separate modules.  In the morning we will be discussing the module system, which it is required and how it is used to select the software you require.  In the afternoon, we will be discussing how to actually run jobs on a NAISS system, using the job scheduler.   As part of the afternoon module we also discuss the basic architecture of a typical HPC cluster.
+
 - **Date**: 
-- **Time**: 9:00 - 12:00 and 13:00 - 16:00 
+- **Time**: 9:00 - 11:30 and 13:00 - 16:00 
 
 ## Selecting software modules 
 
-**Time**: 9:00 - 12:00 
+**Time**: 9:00 - 11:30 
 
-The course will show you how to find and load modules. While the modules may be somewhat differently named and have somewhat different versions depending on the center you are working, the procedure and commands are the same. 
+The course will show you how to find and access your require software on NAISS systems.  For NAISS systems, utilised by several hundret users simultanously, organising software in a module system is essential.  This ensures that every user can get access to their required software, including the desired version.  The module system also ensures that there are no conflicts between the software titles and the software requirements of other users.  
+
+While the modules may be somewhat differently named on the individual systems, the procedure and commands are the same. 
 
 ### Prerequisites 
 
-- Basic Linux (like in the "Linux Command Line 101" module for instance)
+- Basic knowledge of Linux, like in the "Linux Command Line 101" module
 
 ### Topics 
 
@@ -21,7 +25,6 @@ The course will show you how to find and load modules. While the modules may be 
     - paths
     - environment variables
     - more?
-- What is EasyBuild?
 - Useful commands
 - Load examples
 - Compiler toolchains
