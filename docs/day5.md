@@ -9,7 +9,8 @@
 
 Are you just beginning to work with sensitive data in your research? If yes, welcome to a 1-day introduction to handling sensitive data at NAISS systems. 
 
-We will tell you about NAISS-SENS, how to login to the NAISS sensitive data systems, transfer files via wharf, basics of the SLURM workload manager and the module system on sensitive systems.
+We will tell you about NAISS-SENS, how to login to the NAISS sensitive data systems, transfer files via wharf, basics of the SLURM workload manager and the module system on sensitive systems. 
+Bianca is the only resource so far and will be used during this instance of the course
 
 ### Prerequisites 
 
@@ -21,7 +22,9 @@ We will tell you about NAISS-SENS, how to login to the NAISS sensitive data syst
 - how to login
 - how the sensitive system is set up
 - how you transfer your data in/out from the sensitive systems
-- how you get access to the software you need at this system 
+- how you get access to the software you need at this system
+- how you use the job scheduler to run on the compute nodes
+- (If time allows, how to use IDEs, like RStudio, Jupyter, MATLAB or VSCodium)
 
 !!! note 
 
