@@ -1,5 +1,7 @@
 # Running AI/ML workloads on NAISS systems 
 
+**Time**: 9:00 - 12:00
+
 This session will introduce you to what is different when doing machine
 learning on a compute cluster. Performance considerations and best practices.
 
