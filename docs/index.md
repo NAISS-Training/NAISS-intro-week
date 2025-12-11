@@ -1,6 +1,6 @@
 # NAISS Introduction training week 
 
-The pages contain information about the NAISS introduction training week that will be given by NAISS in early 2026. 
+The pages contain information about the NAISS introduction training week that will be given by NAISS from 2nd to 6th February 2026. 
 
 The NAISS introduction training week is aimed at new users of the infrastructure.  More experienced users, wishing to deepen their understanding of the workings of the systems, are more than welcome to attend our event.   We offer seven modules distributed over 5 days.   Each module describes are particular aspect of using a NAISS system.   You are welcome to choose and pick the modules that best address your existing knowledge, your interest and your requirements.  For each module we provide a separate description, which should allow you to make an informed choice on the modules you wish to attend.
 
@@ -8,25 +8,25 @@ The training is open for all current and prospective users of the NAISS infrastu
 
 Each module covers 3 or 6 hours.   The modules are delivered in English and are held online.     
 
-## [DAY 1](day1.md)
+## [DAY 1](day1.md) 2nd February 2026
 
 - Linux Command Line 101 (3 hours)
 - Connecting and File transfers (3 hours)
 
-## [DAY 2](day2.md)
+## [DAY 2](day2.md) 3rd February 2026
 
 - Selecting software modules (2-3 hours)
 - Running jobs on clusters (3 hours)
 
-## [DAY 3](day3.md)
+## [DAY 3](day3.md) 4th February 2026
 
 - Linux Command Line 201 (6 hours)
 
-## [DAY 4](day4.md)
+## [DAY 4](day4.md) 5th February 2026
 
 - Running AI/ML workloads on NAISS systems (3 hours) 
 
-## [DAY 5](day5.md) 
+## [DAY 5](day5.md) 6th February 2026
 
 - Handling sensitive data at NAISS (6 hours)
 
