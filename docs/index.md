@@ -8,27 +8,29 @@ The training is open for all current and prospective users of the NAISS infrastu
 
 Each module covers 3 or 6 hours.   The modules are delivered in English and are held online.  
 
-## [DAY 1](day1.md): 2nd February 2026
+## DAY 1: 2nd February 2026
 
-- Linux Command Line 101 (3 hours)
-- Connecting and File transfers (3 hours)
+- [Linux Command Line 101](LCL101.md) (3 hours)
+- [Connecting and File transfers](connecting.md) (3 hours)
 
-## [DAY 2](day2.md): 3rd February 2026
+## DAY 2: 3rd February 2026
 
-- Selecting software modules (2-3 hours)
-- Running jobs on clusters (3 hours)
+On day 2 there are two separate modules. In the morning we will be discussing the module system, which is required to access most of the software, and how it is used to select the software you require. In the afternoon, we will be discussing how to actually run jobs on a NAISS system, using the job scheduler. As part of the afternoon module we also discuss the basic architecture of a typical HPC cluster.
 
-## [DAY 3](day3.md): 4th February 2026
+- [Selecting software modules](modules.md) (2.5 hours)
+- [Running jobs on clusters](slurm.md) (3 hours)
 
-- Linux Command Line 201 (6 hours)
+## DAY 3: 4th February 2026
 
-## [DAY 4](day4.md): 5th February 2026
+- [Linux Command Line 201](LCL201.md) (6 hours)
 
-- Running AI/ML workloads on NAISS systems (3 hours) 
+## DAY 4: 5th February 2026
 
-## [DAY 5](day5.md): 6th February 2026
+- [Running AI/ML workloads on NAISS systems](AIML.md) (3 hours) 
 
-- Handling sensitive data at NAISS (6 hours)
+## DAY 5: 6th February 2026
+
+- [Handling sensitive data at NAISS](sensitive.md) (6 hours)
 
 ## Comments and questions
 
