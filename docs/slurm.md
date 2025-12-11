@@ -1,4 +1,4 @@
-# Running jobs on clusters (day 2) 
+# Running jobs on clusters  
 
 **Time**: 13:00 - 16:00 
 

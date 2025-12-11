@@ -1,4 +1,4 @@
-# Running AI/ML workloads on NAISS systems (day 4) 
+# Running AI/ML workloads on NAISS systems 
 
 This session will introduce you to what is different when doing machine
 learning on a compute cluster. Performance considerations and best practices.

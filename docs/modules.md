@@ -1,4 +1,4 @@
-# Selecting software modules (day 2) 
+# Selecting software modules  
 
 **Time**: 9:00 - 11:30 
 

@@ -1,4 +1,4 @@
-# Handling sensitive data at NAISS (day 5)
+# Handling sensitive data at NAISS
 
 Are you just beginning to work with sensitive data in your research? If yes, welcome to a 1-day introduction to handling sensitive data at NAISS systems. Bianca is the only resource so far and will be used during this instance of the course
 

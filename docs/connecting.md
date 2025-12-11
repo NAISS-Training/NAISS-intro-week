@@ -1,4 +1,4 @@
-# Connecting and File transfers (day 1) 
+# Connecting and File transfers  
 
 **Time**: 13:00 - 16:00 
 
