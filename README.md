@@ -1,6 +1,6 @@
 # NAISS Introduction training week 
 
-The pages contain information about the NAISS introduction training week that will be given by NAISS in early 2026. 
+The pages contain information about the NAISS introduction training week that will be given by NAISS in the week of 2-6 February 2026. 
 
 The training is open for all current and prospective users of NAISS, from Swedish academia. 
 
