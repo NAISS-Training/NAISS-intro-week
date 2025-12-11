@@ -25,7 +25,7 @@ We will tell you about NAISS-SENS, how to login to Bianca, transfer files via wh
 
 !!! note 
 
-    Link to the course material: <a href="https://uppmax.github.io/uppmax_intro/bianca.html" target="_blank">Bianca intro</a>. 
+    Link to the course material: <a href="https://uppmax.github.io/bianca_workshops/beginner/intro/" target="_blank">Bianca intro</a>. 
 
 
 
