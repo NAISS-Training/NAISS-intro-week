@@ -22,8 +22,4 @@ GPU partition when that is in place.
 - [Running jobs on a cluster](day2.md)
 - A basic understanding of machine learning
 
-### Topics
-
-!!! note 
-
-    Link to the course material: 
+<!-- TODO  ### Topics -->
