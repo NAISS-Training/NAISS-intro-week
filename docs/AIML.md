@@ -17,17 +17,12 @@ GPU partition when that is in place.
 
 ## Prerequisites
 
-- [Connecting](day1.md) to an HPC cluster
-- [Selecting software modules](day2.md)
-- [Running jobs on a cluster](day2.md)
-- A basic understanding of machine learning
+To be able to follow along you should have a basic understanding of machine
+learning and know how to:
 
-## Topics
+- [Connect](connecting.md) to an HPC cluster
+- Use software on an HPC cluster with [modules](modules.md) and/or Apptainer containers
+- [Run jobs on a cluster](slurm.md)
+- Program in Python
 
-- what is different when doing machine learning on a compute cluster?
-- Performance considerations
-- best practices
-
-!!! note 
-
-    Link to the course material: 
+<!-- TODO  ### Topics -->
