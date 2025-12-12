@@ -25,4 +25,39 @@ learning and know how to:
 - [Run jobs on a cluster](slurm.md)
 - Program in Python
 
-<!-- TODO  ### Topics -->
+### Topics
+!!! note
+    These topics are currently preliminary and may be subject to change.
+
+<!-- At some point cover the specifics for Alvis:
+    - C3SE_quota, where-are-my-files
+    - job-killing
+    - job_stats.py
+-->
+- How you run on GPUs with PyTorch and TensorFlow <!--
+    - Software recap
+    - SLURM recap and allocating GPUs on NAISS SLURM clusters
+    - Basic checkpointing for long running jobs (Do I want PyTorch lightning?)
+-->
+- Floating point precision and GPU performance <!--
+    - Explain GPU-parallelism
+    - Table for NVIDIA GPUs on all NAISS systems (optionally AMD table for Dardel)
+    - Mixed precision and how to select precision in PyTorch and TensorFlow
+    - GPU monitoring (nvtop, job_stats.py (Alvis only))
+-->
+- Performance considerations for data loading on parallel filesystems  <!--
+    - Explain parallel filesystems or at least talk about FileIO
+    - What to show? Arrow, Zip
+-->
+- Profiling your ML workload <!--
+    - Print statements with timestamps?
+    - Figure out how PyTorchs new replacement work and get something useful from that
+    - TensorFlow + TensorBoard
+    - Scalene? Others?
+-->
+- Multi-GPU parallelism
+    - Conceptual overview
+    - Data Parallellism
+    - Fully Sharded Data Parallel
+    - Basic LLM inference with model parallelism
+<!-- Basics on HTC and random parameter search with job-arrays if time permits -->
