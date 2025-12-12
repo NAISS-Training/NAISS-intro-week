@@ -1,6 +1,7 @@
 # NAISS Introduction training week 
+**2nd to 6th February 2026**
 
-The pages contain information about the NAISS introduction training week that will be given by NAISS from 2nd to 6th February 2026. 
+The pages contain information about the NAISS introduction training week. 
 
 The NAISS introduction training week is aimed at new users of the infrastructure.  More experienced users, wishing to deepen their understanding of the workings of the systems, are more than welcome to attend our event.   We offer seven modules distributed over 5 days.   Each module describes are particular aspect of using a NAISS system.   You are welcome to choose and pick the modules that best address your existing knowledge, your interest and your requirements.  For each module we provide a separate description, which should allow you to make an informed choice on the modules you wish to attend.
 
