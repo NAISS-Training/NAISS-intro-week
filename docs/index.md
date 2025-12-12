@@ -40,3 +40,5 @@ Comments and questions on these training events should be sent to NAISS using th
 
 You can find the registration here: <a href="https://forms.office.com/e/drJJvvis8s" target="_blank">https://forms.office.com/e/drJJvvis8s</a>. 
 
+Registration is set to close on 23rd January 2026.
+
