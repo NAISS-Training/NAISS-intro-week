@@ -25,7 +25,7 @@ learning and know how to:
 - [Run jobs on a cluster](slurm.md)
 - Program in Python
 
-### Topics
+## Topics
 !!! note
     These topics are currently preliminary and may be subject to change.
 
