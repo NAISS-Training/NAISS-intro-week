@@ -1,8 +1,8 @@
-# Connecting and File transfers  
+# Connecting and File Transfer
 
 **Time**: 13:00 - 16:00 
 
-This course will teach you how to login to and transfer files between NAISS HPC clusters.
+This courses teaches you how to login to and transfer files to/from/between NAISS HPC clusters.
 
 !!! note
 
