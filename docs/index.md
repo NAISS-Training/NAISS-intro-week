@@ -12,7 +12,7 @@ Each module covers 3 or 6 hours.   The modules are delivered in English and are 
 ## DAY 1: 2nd February 2026
 
 - [Linux Command Line 101](LCL101.md) (3 hours)
-- [Connecting and File transfers](connecting.md) (3 hours)
+- [Connecting and File Transfer](connecting.md) (3 hours)
 
 ## DAY 2: 3rd February 2026
 
