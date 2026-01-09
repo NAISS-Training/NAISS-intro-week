@@ -1,4 +1,4 @@
-# Connecting and File Transfer
+# Connect and File Transfer
 
 **Time**: 13:00 - 16:00 
 
