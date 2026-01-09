@@ -42,7 +42,7 @@ nav:
   - Introduction: intro.md
   - Day 1: 
     - Linux Command Line 101: LCL101.md
-    - Connecting and File transfers: connecting.md
+    - Connect and file transfer: connecting.md
   - Day 2: 
     - Selecting software modules: modules.md
     - Running jobs on clusters: slurm.md  
