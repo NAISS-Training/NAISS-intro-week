@@ -2,7 +2,13 @@
 
 **Time**: 13:00 - 16:00 
 
-This courses teaches you how to login to and transfer files to/from/between NAISS HPC clusters.
+This course teaches you how to login to and transfer files to/from/between NAISS HPC clusters.
+
+In this 3-hour workshop you learn how to log in and how to transfer files to and from Swedish academic HPC clusters. We will cover graphical as well as terminal tools and you will work highly interactively.
+
+At the end of the day, you should be comfortable in transferring files between local computer and a cluster and cross-clusters, and choosing the right tool for your use cases.
+
+The workshop is intended for beginner users but with some Linux experience, see the prerequisites link below. You do not need to be a member of a NAISS project in order to join the workshop. A course project on one of the NAISS clusters will be available to those.
 
 !!! note
 
