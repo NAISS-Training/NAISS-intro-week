@@ -18,8 +18,8 @@ Each module covers 3 or 6 hours.   The modules are delivered in English and are 
 
 On day 2 there are two separate modules. In the morning we will be discussing the module system, which is required to access most of the software, and how it is used to select the software you require. In the afternoon, we will be discussing how to actually run jobs on a NAISS system, using the job scheduler. As part of the afternoon module we also discuss the basic architecture of a typical HPC cluster.
 
-- [Selecting software modules](modules.md) (2.5 hours)
-- [Running jobs on clusters](slurm.md) (3 hours)
+- [Selecting Software Modules](modules.md) (2.5 hours)
+- [Running Jobs on Clusters](slurm.md) (3 hours)
 
 ## DAY 3: 4th February 2026
 
@@ -27,11 +27,11 @@ On day 2 there are two separate modules. In the morning we will be discussing th
 
 ## DAY 4: 5th February 2026
 
-- [Running AI/ML workloads on NAISS systems](AIML.md) (3 hours) 
+- [Running AI/ML Workloads on NAISS Systems](AIML.md) (3 hours) 
 
 ## DAY 5: 6th February 2026
 
-- [Handling sensitive data at NAISS](sensitive.md) (6 hours)
+- [Handling Sensitive Data at NAISS](sensitive.md) (6 hours)
 
 ## Comments and questions
 
