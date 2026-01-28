@@ -36,3 +36,4 @@ Comments and questions on these training events should be sent to NAISS using [t
 
 You can find the registration here: https://forms.office.com/e/drJJvvis8s  
 
+**NOTE** Deadline was 2026-01-26, but the registration has been re-opened by request. You may continue signing up until Friday, 2026-01-30, 17:00, but we will not provide accounts. You can use existing accounts or just listen in.  
