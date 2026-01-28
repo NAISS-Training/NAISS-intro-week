@@ -1,4 +1,4 @@
-# NAISS Introduction training week 
+# NAISS Introduction Training Week 
 **2nd to 6th February 2026**
 
 The pages contain information about the NAISS introduction training week. 
