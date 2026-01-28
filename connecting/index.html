@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="shortcut icon" href="../img/favicon.ico" />
+    <title>Connect and file transfer - NAISS Intro week</title>
+    <link rel="stylesheet" href="../css/theme.css" />
+    <link rel="stylesheet" href="../css/theme_extra.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
+        <link href="../assets/_markdown_exec_pyodide.css" rel="stylesheet" />
+        <link href="../assets/_markdown_exec_ansi.css" rel="stylesheet" />
+        <link href="../assets/_mkdocstrings.css" rel="stylesheet" />
+        <link href="../css/extra.css" rel="stylesheet" />
+    
+      <script>
+        // Current page data
+        var mkdocs_page_name = "Connect and file transfer";
+        var mkdocs_page_input_path = "connecting.md";
+        var mkdocs_page_url = null;
+      </script>
+    
+    <!--[if lt IE 9]>
+      <script src="../js/html5shiv.min.js"></script>
+    <![endif]-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+      <script>hljs.highlightAll();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href="..">
+          <img src="../images/logo.png" class="logo" alt="Logo"/>
+        </a><div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="..">Home</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../intro/">Introduction</a>
+                </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Day 1</span></p>
+              <ul class="current">
+                  <li class="toctree-l1"><a class="reference internal" href="../LCL101/">Linux Command Line 101</a>
+                  </li>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="#">Connect and file transfer</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#prerequisites">Prerequisites</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#topics">Topics</a>
+    </li>
+    </ul>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Day 2</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../modules/">Selecting software modules</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../slurm/">Running jobs on clusters</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Day 3</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../LCL201/">Linux Command Line 201</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Day 4</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../AIML/">Running AI/ML workloads on NAISS systems</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Day 5</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../sensitive/">Handling sensitive data at NAISS</a>
+                  </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="..">NAISS Intro week</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href=".." class="icon icon-home" aria-label="Docs"></a></li>
+          <li class="breadcrumb-item">Day 1</li>
+      <li class="breadcrumb-item active">Connect and file transfer</li>
+    <li class="wy-breadcrumbs-aside">
+          <a href="https://github.com/NAISS-Training/NAISS-intro-week/blob/main/docs/connecting.md" class="icon icon-github"> Edit on GitHub</a>
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+                <h1 id="connect__and__file__transfer">Connect and File Transfer<a class="headerlink" href="#connect__and__file__transfer" title="Permanent link">&para;</a></h1>
+<p><strong>Time</strong>: 13:00 - 16:00 </p>
+<p>This course teaches you how to login to and transfer files to/from/between NAISS HPC clusters.</p>
+<p>In this 3-hour workshop you learn how to log in and how to transfer files to and from Swedish academic HPC clusters. We will cover graphical as well as terminal tools and you will work highly interactively.</p>
+<p>At the end of the day, you should be comfortable in transferring files between local computer and a cluster and cross-clusters, and choosing the right tool for your use cases.</p>
+<p>The workshop is intended for beginner users but with some Linux experience, see the prerequisites link below. You do not need to be a member of a NAISS project in order to join the workshop. A course project on one of the NAISS clusters will be available to those.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Click the Home (at the top) to see the date.</p>
+</div>
+<h2 id="prerequisites">Prerequisites<a class="headerlink" href="#prerequisites" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Prerequisite 1/4: have a good Zoom setup</li>
+<li>Prerequisite 2/4: (Mac and Linux users only) Have rsync installed</li>
+<li>Prerequisite 3/4: Have FileZilla installed. (if you cannot install, see the FAQ &lsquo;What if I cannot install FileZilla?&rsquo;)</li>
+<li>Prerequisite 4/4: Be able to find the course&rsquo;s Zoom room&rsquo;s URL on your HPC cluster</li>
+</ul>
+<p>For questions, see <a href="https://uppmax.github.io/naiss_file_transfer_course/prereqs/">the course&rsquo;s prerequisites page</a>.</p>
+<h2 id="topics">Topics<a class="headerlink" href="#topics" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Login with terminal</li>
+<li>File transfer using scp</li>
+<li>File transfer using FileZilla</li>
+<li>File transfer using rsync</li>
+<li>Cluster to cluster</li>
+<li>File transfer using sftp</li>
+</ul>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Link to the course material: <a href="https://uppmax.github.io/naiss_file_transfer_course/" target="_blank">Connecting and file transfers</a>. </p>
+</div>
+              
+            </div>
+          </div><footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
+        <a href="../LCL101/" class="btn btn-neutral float-left" title="Linux Command Line 101"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../modules/" class="btn btn-neutral float-right" title="Selecting software modules">Next <span class="icon icon-circle-arrow-right"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+        <span>
+          <a href="https://github.com/NAISS-Training/NAISS-intro-week" class="fa fa-github" style="color: #fcfcfc"> GitHub</a>
+        </span>
+    
+    
+      <span><a href="../LCL101/" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="../modules/" style="color: #fcfcfc">Next &raquo;</a></span>
+    
+  </span>
+</div>
+    <script src="../js/jquery-3.6.0.min.js"></script>
+    <script>var base_url = "..";</script>
+    <script src="../js/theme_extra.js"></script>
+    <script src="../js/theme.js"></script>
+      <script src="../assets/_markdown_exec_pyodide.js"></script>
+      <script src="../search/main.js"></script>
+      <script src="../js/open_in_new_tab.js"></script>
+    <script>
+        jQuery(function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        });
+    </script>
+
+</body>
+</html>
