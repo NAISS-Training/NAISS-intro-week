@@ -1,0 +1,31 @@
+# Check that all links are valid, i.e. not broken
+name: Check links
+
+# Simplified from https://github.com/UPPMAX/naiss_intro_python/blob/main/.github/workflows/check_links.yaml
+
+on:
+  push:
+    paths:
+      - .github/workflows/check_links.yaml
+      - 'docs/**'
+      - mlc_config.json
+  pull_request:
+    paths:
+      - 'docs/**'
+      - .github/workflows/check_links.yaml
+      - mlc_config.json
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          config-file: 'mlc_config.json'
+          use-quiet-mode: 'yes'
+          use-verbose-mode: 'no'
+
