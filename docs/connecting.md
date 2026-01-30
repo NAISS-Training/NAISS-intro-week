@@ -23,10 +23,16 @@ A course project on one of the NAISS clusters will be available to those.
 
 ## [Prerequisites](https://uppmax.github.io/naiss_file_transfer_course/prereqs/)
 
-- Prerequisite 1/4: have a good Zoom setup
-- Prerequisite 2/4: (Mac and Linux users only) Have rsync installed
-- Prerequisite 3/4: Have FileZilla installed. (if you cannot install, see the FAQ 'What if I cannot install FileZilla?')
-- Prerequisite 4/4: Be able to find the course's Zoom room's URL on your HPC cluster
+- Prerequisite 1/4:
+  [have a good Zoom setup](https://uppmax.github.io/naiss_file_transfer_course/faq#how-can-i-get-a-good-zoom-setup)
+- Prerequisite 2/4: (Windows users only)
+  [Have MobaXterm installed](https://uppmax.github.io/naiss_file_transfer_course/faq#how-to-install-mobaxterm)
+- Prerequisite 3/4: (Mac and Linux users only)
+  [Have rsync installed](https://uppmax.github.io/naiss_file_transfer_course/faq#how-to-install-rsync)
+- Prerequisite 4/4:
+  [Have FileZilla installed](https://uppmax.github.io/naiss_file_transfer_course/faq#how-to-install-filezilla).
+  (if you cannot install,
+  see [the FAQ 'What if I cannot install FileZilla?'](https://uppmax.github.io/naiss_file_transfer_course/faq#what-if-i-cannot-install-filezilla))
 
 For questions, see [the course's prerequisites page](https://uppmax.github.io/naiss_file_transfer_course/prereqs/).
 
