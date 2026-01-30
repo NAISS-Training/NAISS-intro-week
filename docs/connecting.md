@@ -3,6 +3,7 @@
 - [Course homepage](https://uppmax.github.io/naiss_file_transfer_course/)
 - **Time**: 13:00 - 16:00 
 - [Course dates](https://uppmax.github.io/naiss_file_transfer_course/course_dates/)
+- [Videos of all sessions](https://uppmax.github.io/naiss_file_transfer_course/videos/)
 
 This course teaches you how to login to and transfer files to/from/between
 NAISS HPC clusters.
