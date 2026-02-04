@@ -1,18 +1,23 @@
 # Handling sensitive data at NAISS
 
-**Time**: 9:00 - 12:00 and 13:00 - 16:00
+- [Course homepage](uppmax.github.io/bianca_workshops/beginner/intro/)
+- **Time**: 9:00 - 12:00 and 13:00 - 16:00
+- [Course dates](https://uppmax.github.io/bianca_workshops/beginner/course_dates/)
 
-Are you just beginning to work with sensitive data in your research? If yes, welcome to a 1-day introduction to handling sensitive data at NAISS systems. Bianca is the only resource so far and will be used during this instance of the course
+Are you just beginning to work with sensitive data in your research?
+If yes, welcome to a 1-day introduction to handling sensitive data
+on the NAISS sensitive data HPC cluster called Bianca.
 
-We will tell you about NAISS-SENS, how to login to Bianca, transfer files via wharf, basics of the SLURM workload manager and the module system on sensitive systems. We may also, if time allows, cover how to start IDEs, like RStudio and Jupyter-lab.
-
-!!! note
-
-    Click the Home (at the top) to see the date.
+You will learn how to use Bianca:
+you will login to Bianca, up/download files, load pre-installed software
+of your favorite version, submit jobs and how to use a programming
+environment such as RStudio or Jupyter.
 
 ## Prerequisites 
 
-- Basic Linux (as in the "Linux Command Line 101" module of this training week). 
+- Basic Linux. It is taight earlier in this NAISS Intro week and called
+  [Linux Command Line 101](https://naiss-training.github.io/NAISS-intro-week/LCL101/) 
+
 ## Topics 
 
 - an overview of kinds of sensitive data
@@ -22,10 +27,3 @@ We will tell you about NAISS-SENS, how to login to Bianca, transfer files via wh
 - how you get access to the software you need at this system
 - how you use the job scheduler to run on the compute nodes
 - (how to start IDEs)
-
-!!! note 
-
-    Link to the course material: <a href="https://uppmax.github.io/bianca_workshops/beginner/intro/" target="_blank">Bianca intro</a>. 
-
-
-
