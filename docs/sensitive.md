@@ -17,7 +17,7 @@ environment such as RStudio or Jupyter.
 
 ## Prerequisites 
 
-- Basic Linux. It is taight earlier in this NAISS Intro week and called
+- Basic Linux. This is taught earlier in this NAISS Intro week and called
   [Linux Command Line 101](https://naiss-training.github.io/NAISS-intro-week/LCL101/) 
 
 ## Topics 
