@@ -1,6 +1,6 @@
 # Connect and File Transfer
 
-[![Course homepage](images/connect_and_file_transfer.png)](https://uppmax.github.io/naiss_file_transfer_course/)
+[![Course homepage](images/connecting.png)](https://uppmax.github.io/naiss_file_transfer_course/)
 
 - [Course homepage](https://uppmax.github.io/naiss_file_transfer_course/)
 - **Time**: 13:00 - 16:00 

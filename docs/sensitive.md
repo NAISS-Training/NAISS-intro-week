@@ -1,6 +1,8 @@
 # Handling sensitive data at NAISS
 
-- [Course homepage](uppmax.github.io/bianca_workshops/beginner/intro/)
+[![Course homepage](images/sensitive.png)](https://uppmax.github.io/bianca_workshops/beginner/intro/)
+
+- [Course homepage](https://uppmax.github.io/bianca_workshops/beginner/intro/)
 - **Time**: 9:00 - 12:00 and 13:00 - 16:00
 - [Course dates](https://uppmax.github.io/bianca_workshops/beginner/course_dates/)
 
