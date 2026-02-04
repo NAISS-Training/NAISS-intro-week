@@ -42,16 +42,16 @@ nav:
   - Introduction: intro.md
   - Day 1: 
     - Linux Command Line 101: LCL101.md
-    - Connect and file transfer: connecting.md
+    - connecting.md
   - Day 2: 
     - Selecting software modules: modules.md
     - Running jobs on clusters: slurm.md  
   - Day 3: 
-    - Linux Command Line 201: LCL201.md
+    - LCL201.md
   - Day 4: 
     - Running AI/ML workloads on NAISS systems: AIML.md
   - Day 5: 
-    - Handling sensitive data at NAISS: sensitive.md 
+    - sensitive.md 
 
 plugins:
   - search
