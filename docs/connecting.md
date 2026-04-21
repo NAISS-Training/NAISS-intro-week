@@ -1,11 +1,11 @@
 # Connect and File Transfer
 
-[![Course homepage](images/connecting.png)](https://uppmax.github.io/naiss_file_transfer_course/)
+[![Course homepage](images/connecting.png)](https://hpc.pages.naiss.se/training/connect-transfer/)
 
-- [Course homepage](https://uppmax.github.io/naiss_file_transfer_course/)
+- [Course homepage](https://hpc.pages.naiss.se/training/connect-transfer/)
 - **Time**: 13:00 - 16:00 
-- [Course dates](https://uppmax.github.io/naiss_file_transfer_course/course_dates/)
-- [Videos of all sessions](https://uppmax.github.io/naiss_file_transfer_course/videos/)
+- [Course dates](https://hpc.pages.naiss.se/training/connect-transfer/course_dates/)
+- [Videos of all sessions](https://hpc.pages.naiss.se/training/connect-transfer/videos/)
 
 This course teaches you how to login to and transfer files to/from/between
 NAISS HPC clusters.
@@ -24,22 +24,22 @@ and does require you to install some tools.
 You do not need to be a member of a NAISS project in order to join the workshop.
 A course project on one of the NAISS clusters will be available to those.
 
-## [Prerequisites](https://uppmax.github.io/naiss_file_transfer_course/prereqs/)
+## [Prerequisites](https://hpc.pages.naiss.se/training/connect-transfer/prereqs/)
 
 - Prerequisite 1/4:
-  [have a good Zoom setup](https://uppmax.github.io/naiss_file_transfer_course/faq#how-can-i-get-a-good-zoom-setup)
+  [have a good Zoom setup](https://hpc.pages.naiss.se/training/connect-transfer/faq#how-can-i-get-a-good-zoom-setup)
 - Prerequisite 2/4: (Windows users only)
-  [Have MobaXterm installed](https://uppmax.github.io/naiss_file_transfer_course/faq#how-to-install-mobaxterm)
+  [Have MobaXterm installed](https://hpc.pages.naiss.se/training/connect-transfer/faq#how-to-install-mobaxterm)
 - Prerequisite 3/4: (Mac and Linux users only)
-  [Have rsync installed](https://uppmax.github.io/naiss_file_transfer_course/faq#how-to-install-rsync)
+  [Have rsync installed](https://hpc.pages.naiss.se/training/connect-transfer/faq#how-to-install-rsync)
 - Prerequisite 4/4:
-  [Have FileZilla installed](https://uppmax.github.io/naiss_file_transfer_course/faq#how-to-install-filezilla).
+  [Have FileZilla installed](https://hpc.pages.naiss.se/training/connect-transfer/faq#how-to-install-filezilla).
   (if you cannot install,
-  see [the FAQ 'What if I cannot install FileZilla?'](https://uppmax.github.io/naiss_file_transfer_course/faq#what-if-i-cannot-install-filezilla))
+  see [the FAQ 'What if I cannot install FileZilla?'](https://hpc.pages.naiss.se/training/connect-transfer/faq#what-if-i-cannot-install-filezilla))
 
-For questions, see [the course's prerequisites page](https://uppmax.github.io/naiss_file_transfer_course/prereqs/).
+For questions, see [the course's prerequisites page](https://hpc.pages.naiss.se/training/connect-transfer/prereqs/).
 
-## [Learning outcomes](https://uppmax.github.io/naiss_file_transfer_course/learning_outcomes/)
+## [Learning outcomes](https://hpc.pages.naiss.se/training/connect-transfer/learning_outcomes/)
 
 - I am comfortable using the documentation of my HPC center
 - I can log in to my favorite HPC cluster using a web browser

@@ -56,7 +56,7 @@ This course will teach you how to login to and transfer files between NAISS HPC 
 - Prerequisite 4/5: Be able to find the course's Zoom room's URL on your HPC cluster
 - Prerequisite 5/5: have a good Zoom setup
 
-More here: <a href="https://uppmax.github.io/naiss_file_transfer_course/prereqs/" target="_blank">prerequisites</a>. 
+More here: <a href="https://hpc.pages.naiss.se/training/connect-transfer/prereqs/" target="_blank">prerequisites</a>. 
 
 ### Topics 
 
@@ -69,5 +69,5 @@ More here: <a href="https://uppmax.github.io/naiss_file_transfer_course/prereqs/
 
 !!! note 
 
-    Link to the course material: <a href="https://uppmax.github.io/naiss_file_transfer_course/" target="_blank">Connecting and file transfers</a>. 
+    Link to the course material: <a href="https://hpc.pages.naiss.se/training/connect-transfer/" target="_blank">Connecting and file transfers</a>. 
 
