@@ -14,7 +14,7 @@ The module is organised as an online event.  The event addresses users who have 
 
 - An account at an HPC centre
    - If you do not have an account, you can still listen to the presentations.
-- Knowledge of logging in to your chosen HPC centre (Like in the "Connecting and File transfers" module for instance) 
+- Knowledge of logging in to your chosen HPC centre (Like in the "Connect and File Transfer" module for instance) 
    - We have listed login info for several Swedish HPC centres
 - Very basic Linux knowledge
    - You can find the material and recordings from the most recent NAISS Linux introduction course here: <a href="https://hpc2n.github.io/linux-command-line-101/" target="_blank">Linux intro material</a> and <a href="https://youtube.com/playlist?list=PL6jMHLEmPVLxLh5h2JTe6fFZ0rJx0uO1a&si=Ui_6y24Odaez_drt" target="_blank">Recordings from the Linux intro course</a>

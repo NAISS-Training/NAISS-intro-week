@@ -9,7 +9,7 @@ The training is divided into modules, which will each cover 3 or 6 hours:
 ## DAY 1 
 
 - Linux Command Line 101 (3 hours)
-- Connecting and File transfers (3 hours)
+- Connect and File Transfer (3 hours)
 
 ## DAY 2 
 

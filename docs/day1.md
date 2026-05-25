@@ -42,7 +42,7 @@ This course will consist of lectures and type-alongs, as well as a few exercises
 
     Link to the course material: <a href="https://hpc2n.github.io/linux-command-line-101/" target="_blank">Linux Command Line 101</a>. 
 
-## Connecting and File transfers  
+## Connect and File Transfer  
 
 **Time**: 13:00 - 16:00 
 
@@ -69,5 +69,5 @@ More here: <a href="https://hpc.pages.naiss.se/training/connect-transfer/prereqs
 
 !!! note 
 
-    Link to the course material: <a href="https://hpc.pages.naiss.se/training/connect-transfer/" target="_blank">Connecting and file transfers</a>. 
+    Link to the course material: <a href="https://hpc.pages.naiss.se/training/connect-transfer/" target="_blank">Connect and File Transfer</a>. 
 
