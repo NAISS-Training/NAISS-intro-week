@@ -33,11 +33,11 @@ learning and know how to:
   - Mixed precision and GPUs
   - Filesystem performance
   - Profiling
-- Multi-GPU parallelism
-  - Task Parallelism
-  - Data Parallelism
-  - Flavours of Model Parallelism
-- Very Brief Intro to LLM Inference
+<!-- - Multi-GPU parallelism -->
+<!--   - Task Parallelism -->
+<!--   - Data Parallelism -->
+<!--   - Flavours of Model Parallelism -->
+<!-- - Very Brief Intro to LLM Inference -->
 
 !!! note
-    Link to the course material: [Running AI/ML Workloads on NAISS Systems](https://naiss-training.github.io/ai-intro/)
+    Link to the course material: [Running AI/ML Workloads on NAISS Systems](https://hpc.pages.naiss.se/training/ai-intro/)
