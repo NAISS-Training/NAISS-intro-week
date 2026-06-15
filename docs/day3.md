@@ -47,5 +47,5 @@ I.e. we assume you know that:
 
 !!! note 
 
-    Link to the course material: <a href="https://uppmax.github.io/linux-command-line-201/" target="_blank">Linux Command Line 201</a>. 
+    Link to the course material: <a href="https://uppmax.github.io/linux-command-line-102/" target="_blank">Linux Command Line 201</a>. 
 
